@@ -68,6 +68,9 @@ body {
   margin: 80px 0 20px;
 
   background-color: hsl(0, 0%, 95%);
+
+  cursor: pointer;
+  outline: none;
 }
 .container div:nth-child(1) button {
   color: hsl(31, 77%, 52%);
