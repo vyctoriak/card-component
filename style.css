@@ -27,7 +27,7 @@ body {
   text-align: left;
 }
 .container div img {
-  width: fit-content;
+  width: max-content;
   margin: 14px 0;
 }
 
