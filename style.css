@@ -76,11 +76,29 @@ body {
 .container div:nth-child(1) button {
   color: hsl(31, 77%, 52%);
 }
+.container div:nth-child(1) button:hover {
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  transition: 0.2s all ease-in-out;
+}
 .container div:nth-child(2) button {
   color: hsl(184, 100%, 22%);
 }
+.container div:nth-child(2) button:hover {
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  transition: 0.2s all ease-in-out;
+}
 .container div:nth-child(3) button {
   color: hsl(179, 100%, 13%);
+}
+.container div:nth-child(3) button:hover {
+  color: white;
+  background-color: transparent;
+  border: 1px solid white;
+  transition: 0.2s all ease-in-out;
 }
 
 @media only screen and (max-width: 1070px) {
