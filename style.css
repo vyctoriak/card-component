@@ -36,6 +36,7 @@ body {
   font-size: 15px;
   font-weight: 400;
   color: hsla(0, 0%, 100%, 0.75);
+  line-height: 24px;
 }
 
 .container h1 {
